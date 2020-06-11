@@ -359,7 +359,7 @@ pre {
 :root {
   --accent-color: #ed5f74;
   --headline-color: var(--accent-color);
-  --logo-image: url("https://storage.googleapis.com/stripe-sample-images/logo-pasha.svg");
+  --logo-image: url("https://media.lifeposts.com/site_media/static/css/images/logo-big-dark.png");
 }
 
 .pasha-image-stack {
